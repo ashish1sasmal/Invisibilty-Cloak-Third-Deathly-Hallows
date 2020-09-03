@@ -12,4 +12,4 @@ Main Logic :
 2. Detect the color of image in the video stream using color segmentation method.
 3. Eliminate the color and add the background portion to it.
 
-### Note : Code is referenced from geeksForgeeks
+##### Note : Code is referenced from geeksForgeeks
